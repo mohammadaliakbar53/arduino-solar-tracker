@@ -87,3 +87,18 @@ Mohammad
 ## Project Status
 
 Built as a practical electronics and renewable energy project.
+
+## Circuit Diagrams
+
+### 1. Circuit Diagram
+
+This diagram shows the component layout and wiring connections for the Arduino-based single-axis solar tracking system.
+
+![Solar Tracker Circuit Diagram](circuit/circuit-diagram.png)
+
+### 2. Schematic Diagram
+
+This schematic illustrates the electrical connections between the Arduino, LDR sensors, and servo motor.
+
+![Solar Tracker Schematic Diagram](circuit/schematic-diagram.jpg)
+
